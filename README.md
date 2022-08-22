@@ -9,8 +9,8 @@
 ### A little boy learning to program 💻
 
 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
-- 🤔 I’m looking for help with CSS, JAVASCRIPT
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, PHP, PASCAL, DELPHI
+- 🤔 I’m looking for help with JAVASCRIPT, PHP, PASCAL, DELPHI
 - 📫 How to reach me: diegoalvesdc12@gmail.com
 
 
