@@ -19,5 +19,3 @@
 - [Twitter](https://twitter.com/diegodc1_)
 - [Linkedin](https://www.linkedin.com/in/diego-alves-5198671bb/)
 - diegoalvesdc12@gmail.com
-
-![infos](https://github-readme-stats.vercel.app/api/top-langs/?username=diegodc1&theme=blue-green)
