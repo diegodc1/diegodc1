@@ -19,3 +19,6 @@
 - [Twitter](https://twitter.com/diegodc1_)
 - [Linkedin](https://www.linkedin.com/in/diego-alves-5198671bb/)
 - diegoalvesdc12@gmail.com
+
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
