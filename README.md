@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 👋 Olá, eu sou o **Diego Alves**!
+  # 👋 Olá!
 
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6DB33F&center=true&vCenter=true&width=650&lines=Desenvolvedor+de+Software+Full+Stack+%F0%9F%92%BB;Java+%7C+Spring+Boot+%7C+Angular+%E2%98%95%F0%9F%85%B0%EF%B8%8F;Sistemas+Financeiros+%26+Integra%C3%A7%C3%B5es+%F0%9F%8F%A6;Apaixonado+por+Novos+Desafios+%26+Tecnologia+%F0%9F%9A%80" alt="Typing SVG" />
