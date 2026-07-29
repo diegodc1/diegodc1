@@ -1,7 +1,7 @@
 <h2 align="center"> Hi there! <img  align="center" src="https://media.giphy.com/media/H8FP5CniGPbB4zFnRR/giphy.gif" width="50"></h2>
 <p align="center">
   <span> 🔰 Brazilian</span>  •
-  <span> ✨ 20y</span>  
+  <span> ✨ 22y</span>  
 </p>
 
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
