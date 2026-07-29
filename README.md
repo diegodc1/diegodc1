@@ -80,8 +80,6 @@ Sou **Desenvolvedor de Software Full Stack** com foco no ecossistema **Java** (*
 Tenho grande interesse e dedicação contínua em:
 - 🏗️ **Arquitetura de Software & Design Patterns** (Clean Architecture, Microserviços).
 - 🔗 **Integrações de Sistemas** (APIs REST, SFTP, Serviços Bancários e Adquirentes).
-- 💡 **Soluções Escaláveis para o Mercado Financeiro**.
-
 ---
 
 ### 📊 Estatísticas no GitHub
