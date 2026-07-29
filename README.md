@@ -30,7 +30,7 @@ Sou **Desenvolvedor de Software Full Stack** com foco no ecossistema **Java** (*
 
 - 🚀 **Evolução & Tecnologia:** Sou movido por novos desafios, adoro aprender novas tecnologias e buscar continuamente melhores soluções para a engenharia de software.
 - 🎓 **Especialização:** Cursando **MBA em Engenharia de Software**, aprofundando conhecimentos em arquitetura de software, padrões de projeto, testes e metodologias ágeis.
-- 🏎️ **Hobbies:** Apaixonado por **automobilismo**, acompanho **corridas** e gosto de jogar **games de FPS** nas horas vagas.
+- 🏎️ **Hobbies:** Apaixonado por **automobilismo**, acompanho **corridas** e gosto de jogar **FPS** nas horas vagas.
 
 ---
 
@@ -80,7 +80,6 @@ Sou **Desenvolvedor de Software Full Stack** com foco no ecossistema **Java** (*
 Tenho grande interesse e dedicação contínua em:
 - 🏗️ **Arquitetura de Software & Design Patterns** (Clean Architecture, Microserviços).
 - 🔗 **Integrações de Sistemas** (APIs REST, SFTP, Serviços Bancários e Adquirentes).
-- ⚙️ **Desenvolvimento Back-end Avançado** e otimização de performance em consultas SQL.
 - 💡 **Soluções Escaláveis para o Mercado Financeiro**.
 
 ---
